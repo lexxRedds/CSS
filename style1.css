@@ -1,0 +1,9 @@
+header, main, footer {
+    background: royalblue;
+    border: 1px solid;
+}
+
+section {
+    background: purple;
+    border: 1px dashed;
+}
